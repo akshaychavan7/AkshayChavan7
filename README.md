@@ -1,8 +1,7 @@
- ![enter image description
-    here](https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/LinkedIn%20Banner%20Yellow.png)
-    
+ 1. ![Akshay Chavan Banner](https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/LinkedIn%20Banner%20Yellow.png)
     ## 
-    ### Hi there 👋 I'm a software developer and a technology enthusiast currently working as a full-stack developer at FinIQ Consulting
+    
+    I'm a software developer and a technology enthusiast currently working as a full-stack developer at FinIQ Consulting
     India. I've 1+ years of experience in professional software
     development which includes Angular web development, Android and
     Python development. I love what I do and enjoy my work to the
@@ -32,13 +31,9 @@
     [![Top
     Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayChavan7&card_width=494px)](https://github.com/AkshayChavan7/github-readme-stats)
 
-
-
-##
-
 <div align=center>
 <a href="https://github.com/AkshayChavan7"><img src="https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/github-sign.png" width=25px height=25px> </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/akshaychavan7/"><img src="https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/linkedin.png" width=25px height=25px></a> &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/Aksh_ayC7"><img src="https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/twitter.png" width=25px height=25px></a> &nbsp;&nbsp;&nbsp;
-<a href="http://akshaychavan7.github.io/"><img src="https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/www.png" width=25px height=25px></a>
+<a href="https://github.com/AkshayChavan7"><img src="https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/linkedin.png" width=25px height=25px></a> &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/AkshayChavan7"><img src="https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/twitter.png" width=25px height=25px> &nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/www.png" width=25px height=25px>
 </div>
