@@ -1,6 +1,6 @@
  1. ![Akshay Chavan Banner](https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/LinkedIn%20Banner%20Yellow.png)
     ## 
-    
+    ### Hi there 👋 
     I'm a software developer and a technology enthusiast currently working as a full-stack developer at FinIQ Consulting
     India. I've 1+ years of experience in professional software
     development which includes Angular web development, Android and
@@ -30,8 +30,6 @@
     
     [![Top
     Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayChavan7&card_width=494px)](https://github.com/AkshayChavan7/github-readme-stats)
-
-##
 
 <div align=center>
 <a href="https://github.com/AkshayChavan7"><img src="https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/github-sign.png" width=25px height=25px> </a>&nbsp;&nbsp;&nbsp;
