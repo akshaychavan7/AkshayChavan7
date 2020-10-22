@@ -14,7 +14,7 @@ I am always open for freelancing and would love to collaborate with development 
 ### GitHub Stats: 
 
 
-![Akshay Chavan GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshayChavan7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Akshay Chavan GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshayChavan7&&show_icons=true&title_color=ffffff&icon_color=13&text_color=daf7dc&bg_color=151515)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayChavan7&layout=compact&card_width=445px)](https://github.com/AkshayChavan7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayChavan7&card_width=494px)](https://github.com/AkshayChavan7/github-readme-stats)
