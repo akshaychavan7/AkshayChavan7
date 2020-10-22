@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am software developer and a technology enthusiast currently working as a full-stack developer at FinIQ Consulting India. I've 1+ years of experience in professional software development which includes Angular web development, Android and Python development. I love what I do and enjoy my work to the fullest. For me, coding for a problem statement is like solving puzzles which I never get bored of :)
+
+I believe in creating a quality environment for me and the people around me, as this leads our mind to work efficiently and find solutions to our issues. I believe in quality rather than quantity because sometimes your circle decreases in size but increases in value. I am always open for freelancing and would love to collaborate with development communities.
+
 <!--
 **AkshayChavan7/AkshayChavan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
