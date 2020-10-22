@@ -1,4 +1,4 @@
-  ![Akshay Chavan Banner](https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/LinkedIn%20Banner%20Yellow.png)
+ 1. ![Akshay Chavan Banner](https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/LinkedIn%20Banner%20Yellow.png)
     ## 
     
     I'm a software developer and a technology enthusiast currently working as a full-stack developer at FinIQ Consulting
