@@ -12,15 +12,9 @@ I am always open for freelancing and would love to collaborate with development 
 ##  
 
 ### GitHub Stats: 
-<div class="row">
-<div class="col">
+
 
 ![Akshay Chavan GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshayChavan7&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-</div>
-<div class="col">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayChavan7&layout=compact)](https://github.com/AkshayChavan7/github-readme-stats)
-
-</div>
-</div>
