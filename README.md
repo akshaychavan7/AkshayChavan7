@@ -1,4 +1,4 @@
- 1. ![enter image description
+ ![enter image description
     here](https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/LinkedIn%20Banner%20Yellow.png)
     ## 
     ### Hi there 👋 I'm a software developer and a technology enthusiast currently working as a full-stack developer at FinIQ Consulting
