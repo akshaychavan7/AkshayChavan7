@@ -2,7 +2,7 @@
     ## 
     ### Hi there 👋 
     I'm a software developer and a technology enthusiast currently working as a full-stack developer at FinIQ Consulting
-    India. I've 1+ years of experience in professional software
+    India. I've 1.5+ years of experience in professional software
     development which includes Angular web development, Android and
     Python development. I love what I do and enjoy my work to the
     fullest. For me, coding for a problem statement is like solving
