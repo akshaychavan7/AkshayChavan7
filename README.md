@@ -12,7 +12,7 @@ I am always open for freelancing and would love to collaborate with development 
 <br/>
     
    > " It is possible for ordinary people to choose to be extraordinary! "
-   > --Elon Musk
+   > <br/>--Elon Musk
 ##  
     
 ### GitHub Stats: 
