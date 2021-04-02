@@ -11,7 +11,7 @@ I am always open for freelancing and would love to collaborate with development 
 <br/>
 <br/>
     
-   > " Today's hard workers will change themselves tomorrow and will change the world the day after tomorrow! "
+   > " Today's hard workers will empower themselves tomorrow and will change the world the day after tomorrow! "
    > <br/> - Akshay Chavan
 ##  
     
