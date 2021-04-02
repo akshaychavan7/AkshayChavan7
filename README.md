@@ -11,8 +11,8 @@ I am always open for freelancing and would love to collaborate with development 
 <br/>
 <br/>
     
-   > " It is possible for ordinary people to choose to be extraordinary! "
-   > <br/> - Elon Musk
+   > " Today's hard workers will change themselves tomorrow and will change the world the day after tomorrow! "
+   > <br/> - Akshay Chavan
 ##  
     
 ### GitHub Stats: 
