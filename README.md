@@ -7,7 +7,7 @@ I'm a software developer and a technology enthusiast currently working as a Full
 
 I believe in creating a quality environment for me and the people around me, as this leads our mind to work efficiently and find solutions to our issues. I believe in quality rather than quantity because sometimes your circle decreases in size but increases in value. 
 
-I am always open for freelancing and would love to collaborate with development communities.
+I would love to collaborate with development communities.
 
 <br/>
 <br/>
