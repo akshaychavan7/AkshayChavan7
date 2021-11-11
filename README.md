@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/LinkedIn%20Banner%20Yellow.png)
+![enter image description here](https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/LinkedIn%20Banner%203.png)
 ##
 ![](https://visitor-badge.glitch.me/badge?page_id=AkshayChavan7.AkshayChavan7) 
 ### Hi there 👋 
