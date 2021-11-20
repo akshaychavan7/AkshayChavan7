@@ -7,7 +7,8 @@ I'm a software developer and a technology enthusiast currently working as a Full
 
 I believe in creating a quality environment for me and the people around me, as this leads our mind to work efficiently and find solutions to our issues.
 
-I would love to collaborate with development communities.
+I would love to collaborate with development communities.<br/>
+Feel free to reach out to me [here](https://wa.link/dge7w3).
 
 <br/>
 <br/>
