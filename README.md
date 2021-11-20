@@ -28,7 +28,6 @@ I would love to collaborate with development communities.
     
 ## 🚀 Languages and Tools:
  &nbsp;
-
 <p align="left"> 
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
  &nbsp;
