@@ -78,6 +78,7 @@ I am just a [ping](https://wa.link/dge7w3) away!
 ##
     
 ### 📊 GitHub Stats: 
+<div align=center>
 &nbsp;
 &nbsp;
 
@@ -94,3 +95,5 @@ I am just a [ping](https://wa.link/dge7w3) away!
 &nbsp;
 
 <a href="https://github.com/AkshayChavan7/github-readme-activity-graph"><img alt="Akshay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AkshayChavan7&bg_color=060A0CD0&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    
+ </div>
