@@ -101,6 +101,6 @@ I am just a [ping](https://wa.link/dge7w3) away!
 
 ### 🏆 Github Achievements
  <div align=center>
- <p align="center"> <a href="https://github.com/snowwhite-boss"><img src="https://github-profile-trophy.vercel.app/?username=AkshayChavan7&margin-w=5&theme=radical" alt="snowwhite-boss" /></a> </p>
+ <p align="center"> <a href="https://github.com/AkshayChavan7"><img src="https://github-profile-trophy.vercel.app/?username=AkshayChavan7&margin-w=5&theme=radical" alt="snowwhite-boss" /></a> </p>
  
  </div>
