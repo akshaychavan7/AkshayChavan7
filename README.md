@@ -95,5 +95,12 @@ I am just a [ping](https://wa.link/dge7w3) away!
 &nbsp;
 
 <a href="https://github.com/AkshayChavan7/github-readme-activity-graph"><img alt="Akshay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AkshayChavan7&bg_color=060A0CD0&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-    
+ </div>
+
+##
+
+### 🏆 Github Achievements
+ <div align=center>
+ <p align="center"> <a href="https://github.com/snowwhite-boss"><img src="https://github-profile-trophy.vercel.app/?username=AkshayChavan7&margin-w=5&theme=radical" alt="snowwhite-boss" /></a> </p>
+ 
  </div>
