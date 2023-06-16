@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=AkshayChavan7.AkshayChavan7) 
 ### Hi there 👋 
 
-I'm a software developer and a technology enthusiast currently working as a Full-Stack Developer at Quantiphi Analytics. I've 3+ years of experience in professional software development which includes Angular web development, Android and Python development. I love what I do and enjoy my work to the fullest. For me, coding for a problem statement is like solving puzzles which I never get bored of :) 
+I'm a software developer and a technology enthusiast currently working as a Full-Stack Developer at Quantiphi Analytics. I've 4+ years of experience in professional software development which includes Angular web development, Android and Python development. I love what I do and enjoy my work to the fullest. For me, coding for a problem statement is like solving puzzles which I never get bored of :) 
 
 I believe in creating a quality environment for me and the people around me, as this leads our mind to work efficiently and find solutions to our issues.
 
