@@ -1,6 +1,5 @@
 ![enter image description here](https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/LinkedIn%20Banner%203.png)
 ##
-![](https://visitor-badge.glitch.me/badge?page_id=AkshayChavan7.AkshayChavan7) 
 ### Hi there 👋 
 
 I'm a software developer and a technology enthusiast currently working as a Full-Stack Developer at PriceLabs. I've 4+ years of experience in professional software development which includes Angular web development, Android and Python development. I love what I do and enjoy my work to the fullest. For me, coding for a problem statement is like solving puzzles which I never get bored of :) 
