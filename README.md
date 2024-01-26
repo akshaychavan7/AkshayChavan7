@@ -19,9 +19,9 @@ I am just a [ping](https://wa.link/dge7w3) away!
 &nbsp;
 &nbsp;
 <div align=center>
-<a href="https://github.com/AkshayChavan7"><img src="https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/github-sign.png" width=25px height=25px> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/AkshayChavan7"><img src="https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/github-sign.png" width=25px height=25px></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/akshaychavan7"><img src="https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/linkedin.png" width=25px height=25px></a> &nbsp;&nbsp;&nbsp;
-<a href="https://mobile.twitter.com/Aksh_ayC7"><img src="https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/twitter.png" width=25px height=25px> &nbsp;&nbsp;&nbsp;
+<a href="https://mobile.twitter.com/Aksh_ayC7"><img src="https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/twitter.png" width=25px height=25px></a>&nbsp;&nbsp;&nbsp;
 <a href="https://akshaychavan7.github.io/"><img src="https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/www.png" width=25px height=25px></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/Chavan_Akshay_S?hr_r=1"><img src="https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/hackerrank.png" width=25px height=25px></a>
     <br/><p style = "color:#e5e5e5">____________________________________________</p>
