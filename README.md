@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/AkshayChavan7/AkshayChavan7/main/LinkedIn%20Banner%203.png)
+![Banner](https://raw.githubusercontent.com/akshaychavan7/AkshayChavan7/refs/heads/main/Github%20Banner.png)
 
 # Hi, I'm Akshay 👋  
 **Full-Stack Software Engineer | CS Master's Student @ Northeastern University**
