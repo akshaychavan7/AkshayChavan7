@@ -112,7 +112,7 @@ Sep 2023 – Dec 2023
 ## Education
 
 **Northeastern University**  
-Master of Science in Computer Science — GPA: 3.92 / 4.0  
+Master of Science in Computer Science — GPA: 3.95 / 4.0  
 Boston, MA | Sep 2023 – Sep 2025 (Expected)
 
 **Savitribai Phule Pune University**  
