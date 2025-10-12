@@ -38,7 +38,7 @@ I am passionate about:
 ## Stats & Progress  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/akshaychavan7?ext=contest" alt="LeetCode Stats" width="60%"/>  
+  <img src="https://leetcard.jacoblin.cool/akshaychavan7?ext=contest" alt="LeetCode Stats [Refresh again if not loaded correctly]" width="60%"/>  
 </p>
 
 <p align="center">
