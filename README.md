@@ -1,38 +1,5 @@
-![Banner](https://raw.githubusercontent.com/akshaychavan7/AkshayChavan7/refs/heads/main/Github%20Banner.png)
 
-<h1 align="center">Hi, I'm Akshay 👋</h1>
-<h3 align="center">SDE2 @ Amazon | CS Master's @ Northeastern University</h3>
-
-<p align="center">
-Building scalable software | Solving complex problems | Driving impact through technology
-</p>
-
----
-
-## About Me  
-I am a **Software Engineer** with 4+ years of experience in **full-stack development, distributed systems, and cloud technologies**.  
-Currently, I work at **Amazon** as an **SDE II**, where I build and scale **high-impact vendor and marketing platforms** handling multi-million-dollar transactions.  
-
-I am passionate about:  
-- Designing and implementing **scalable, high-performance systems**.  
-- Driving **business impact** through engineering innovation.  
-- Exploring **new technologies** and contributing to meaningful projects.
-
-🌐 Explore more on my portfolio:  
-<p align="center">
-  <a href="https://akshaychavan7.github.io/">
-    <img src="https://img.shields.io/badge/-Visit%20My%20Website-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,nodejs,express,java,spring,python,docker,kubernetes,aws,gcp,mysql,mongodb,git" />
-</p>
-
+![Banner](https://raw.githubusercontent.com/akshaychavan7/AkshayChavan7/refs/heads/main/github_profile_combined.svg)
 ---
 
 ## Stats & Progress  
