@@ -1,5 +1,5 @@
 
-![Banner](https://raw.githubusercontent.com/akshaychavan7/AkshayChavan7/refs/heads/main/github_profile_combined.svg)
+![Banner](https://raw.githubusercontent.com/akshaychavan7/AkshayChavan7/87a7dada698e725e21ae6e3a71c4f85863aa2c1a/github_profile_combined.svg)
 ---
 
 ## Stats & Progress  
